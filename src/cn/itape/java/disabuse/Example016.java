@@ -7,8 +7,6 @@ public class Example016 {
 		/**
 		 * \u000A 注释1
 		 */
-		// Note:\u000A 注释2
-
 		System.out.println("c = " + c);
 		System.out.println("a new line");
 	}
